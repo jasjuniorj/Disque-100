@@ -1,4 +1,4 @@
-# Disque-100 - Violações de Direitos Humanos
+# Disque-100 - Denúncias de violações de Direitos Humanos.
 
 Projeto que disponbiliza dados referentes a denúncias de violações de Direitos Humanos realizadas por meio do Disque 100. Os dados foram coletados no site do Ministério de Direitos Humanos e da Cidadania (MDHC), tratados e dispobilizados no drive.
 
