@@ -6,4 +6,6 @@ Criança e Adolescente: link:https://drive.google.com/file/d/1eckvwRt2XSwOLB_we4
 
 LGBTQIAP+: https://docs.google.com/spreadsheets/d/1iCk2LoR5XcMMGhVllFCo0yanFDsCwj7R/edit?usp=sharing&ouid=108491521694876868971&rtpof=true&sd=true
 
+PCD: https://docs.google.com/spreadsheets/d/191-w0RQzFVMSQsOpKYnsZaI7kjW1E3lC/edit?usp=sharing&ouid=108491521694876868971&rtpof=true&sd=true
+
 Além disso, dispobilizamos um scritpt com séries temporais considenrando raça, sexo, relação com suspeito e e local da vioação.
