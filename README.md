@@ -10,4 +10,6 @@ PCD: https://docs.google.com/spreadsheets/d/191-w0RQzFVMSQsOpKYnsZaI7kjW1E3lC/ed
 
 PIDOSA: https://drive.google.com/file/d/1I9822ezNHmPRCzysGaZLVvH00KqL4j-n/view?usp=sharing
 
+Liberdade Religiosa: https://drive.google.com/file/d/1hFunRcl38tdfHBPQKx31istWxXP035t3/view?usp=sharing
+
 Além disso, dispobilizamos um scritpt com séries temporais considenrando raça, sexo, relação com suspeito e e local da vioação.
