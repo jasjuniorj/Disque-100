@@ -12,4 +12,4 @@ PIDOSA: https://drive.google.com/file/d/1I9822ezNHmPRCzysGaZLVvH00KqL4j-n/view?u
 
 Liberdade Religiosa: https://drive.google.com/file/d/1hFunRcl38tdfHBPQKx31istWxXP035t3/view?usp=sharing
 
-Além disso, dispobilizamos um scritpt com séries temporais considenrando raça, sexo, relação com suspeito e e local da vioação.
+Além disso, dispobilizamos um scritpt com séries temporais considenrando raça, sexo, relação com suspeito e e local da vioação com algumas dessas bases.
